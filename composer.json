@@ -3,7 +3,7 @@
     "description": "NewnetCMS Multilingual",
     "license": "MIT",
     "require": {
-        "mcamara/laravel-localization": "^1.7",
+        "mcamara/laravel-localization": "^1.7|^2.0",
         "spatie/laravel-translatable": "^6.1"
     },
     "autoload": {
